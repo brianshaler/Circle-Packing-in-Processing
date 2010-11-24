@@ -1,0 +1,3 @@
+Primitive circle packing algorithm in Processing.
+
+This takes an array of circles with varying radii, sorts by size, and plots all circles as close to the center of the screen as possible.
